@@ -1,16 +1,12 @@
 ## Backend Employee app
 
 <img src="https://img.icons8.com/color/48/000000/typescript.png"/></span>"
-height="50px"
 />&nbsp;&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/50/000000/mongodb.png"/></span>"
-height="50px"
 />&nbsp;&nbsp;&nbsp;
 <img src="https://img.icons8.com/color/48/000000/cloud-function.png"/></span>"
-height="50px"
 />&nbsp;&nbsp;&nbsp;
 <img src="https://img.icons8.com/fluency/50/000000/node-js.png"/></span>"
-height="50px"
 />&nbsp;&nbsp;&nbsp;
 
 ### Introduction
