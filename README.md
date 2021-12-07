@@ -1,12 +1,12 @@
 ## Backend Employee app
 
-<img src="https://img.icons8.com/color/48/000000/typescript.png"/></span>"
+<img src="https://img.icons8.com/color/48/000000/typescript.png"/></span>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/50/000000/mongodb.png"/></span>"
+<img src="https://img.icons8.com/color/50/000000/mongodb.png"/></span>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/000000/cloud-function.png"/></span>"
+<img src="https://img.icons8.com/color/48/000000/cloud-function.png"/></span>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/fluency/50/000000/node-js.png"/></span>"
+<img src="https://img.icons8.com/fluency/50/000000/node-js.png"/></span>
 &nbsp;&nbsp;&nbsp;
 
 ### Introduction
