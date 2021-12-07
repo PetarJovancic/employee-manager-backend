@@ -1,4 +1,4 @@
-## Backend Employee app
+## Backend Employee Manager app
 
 <img src="https://img.icons8.com/color/48/000000/typescript.png"/></span>
 &nbsp;&nbsp;&nbsp;
